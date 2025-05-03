@@ -26,4 +26,4 @@ A simple command-line interface (CLI) application for managing tasks. This proje
 1. Clone this repository or download the project files.
 2. Navigate to the project directory:
    ```bash
-   cd "c:\Users\atulk\OneDrive\Desktop\start\New folder"
+   
